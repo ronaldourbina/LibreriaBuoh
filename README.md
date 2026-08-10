@@ -93,15 +93,6 @@ Si prefieres crear la base manualmente en vez de dejar que Entity Framework lo h
 2. Expandir **Databases → LibreriaBuohDb → Tables → dbo.Libros**
 3. Clic derecho → **Select Top 1000 Rows**
 
-## Pendientes conocidos
-
-- [ ] Conectar la página de detalle de producto (`PageProducto.tsx`) a datos reales
-- [ ] Activar el filtro por categoría en el catálogo (hoy es solo visual)
-- [ ] Definir qué hace el botón "Finalizar compra" (endpoint de pedido / pasarela de pago)
-- [ ] Manejo de estados de carga/error en el listado de productos
-- [ ] Formulario funcional en la página de Contacto
-- [ ] Mover la URL de la API a variables de entorno (`.env`) en el frontend
-- [ ] Autenticación para los endpoints de escritura (POST/PUT/DELETE) del backend
 
 ## Stack técnico
 
